@@ -32,7 +32,7 @@ class _HomeViewState extends State<HomeView>
     final model = Provider.of<HomeModel>(context);
     return Scaffold(
       backgroundColor: Colors.grey[300],
-      body: Padding(
+      body: Padding( 
         padding: const EdgeInsets.all(40.0),
         child: Stack(
           alignment: Alignment.center,
