@@ -45,7 +45,7 @@ class _HomeViewState extends State<HomeView>
             Liquid(
               isFlipped: true,
               controller: _animationController,
-            ),
+            ), 
             Liquid(
               isFlipped: false,
               controller: _animationController,
