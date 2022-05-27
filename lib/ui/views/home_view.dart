@@ -34,7 +34,7 @@ class _HomeViewState extends State<HomeView>
       backgroundColor: Colors.grey[300],
       body: Padding( 
         padding: const EdgeInsets.all(40.0),
-        child: Stack(
+        child: Stack( 
           alignment: Alignment.center,
           children: [
             AnimatedContainer(
