@@ -26,7 +26,7 @@ class _HomeViewState extends State<HomeView>
     _animationController.dispose();
     super.dispose();
   }
-
+ 
   @override
   Widget build(BuildContext context) {
     final model = Provider.of<HomeModel>(context);
