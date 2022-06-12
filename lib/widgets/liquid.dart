@@ -26,7 +26,7 @@ class Liquid extends StatelessWidget {
         // color: Global.bgColor,
         color: Colors.pinkAccent,
         borderRadius: BorderRadius.all(Radius.circular(20.0)),
-      ), 
+      ),
       child: Stack(
         alignment: Alignment.center,
         children: [
