@@ -3,7 +3,7 @@ import 'package:liquid_menu/core/viewmodels/home_model.dart';
 import 'package:lottie/lottie.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 import 'package:provider/provider.dart';
- 
+  
 import '../ui/shared/globals.dart';
 
 class Liquid extends StatelessWidget {
