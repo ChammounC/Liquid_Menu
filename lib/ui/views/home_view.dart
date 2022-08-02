@@ -40,7 +40,6 @@ class _HomeViewState extends State<HomeView>
             AnimatedContainer(
               duration: const Duration(milliseconds: 300),
               height: model.isOpening?20:0,
-              child: const Text('Gandu'),
             ),
             Liquid(
               isFlipped: true,
